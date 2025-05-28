@@ -11,8 +11,9 @@ Draw detection
 Console board visualization
 
 🛠 How to Compile & Run
+
 Requirements
-A C compiler (e.g., gcc, clang)
+A C compiler 
 
 
 🧩 How to Play
@@ -28,13 +29,3 @@ First player to align three symbols wins.
 
 📁 File Structure
 Project.cpp — Main game logic and all helper functions.
-
-🚀 Future Improvements (Suggestions)
-Add a computer (AI) opponent
-
-Highlight winning line
-
-Improve input validation and error messages
-
-Create a GUI version with SDL or similar
-
